@@ -1,0 +1,16 @@
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.csproj.SuggestedBindingRedirects.cache
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Authorization.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Properties.Resources.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.csproj.GenerateResource.cache
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.csproj.CoreCompileInputs.cache
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\bin\Debug\ОбувьДэмоУП.exe.config
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\bin\Debug\ОбувьДэмоУП.exe
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\bin\Debug\ОбувьДэмоУП.pdb
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Captcha.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Listitem.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.exe
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.pdb
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Main.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.g.resources
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.csproj.AssemblyReference.cache
+C:\Users\furuh\source\repos\ОбувьДэмоУП\ОбувьДэмоУП\obj\Debug\ОбувьДэмоУП.Forms.AddEditForm.resources
